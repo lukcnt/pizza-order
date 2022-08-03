@@ -35,3 +35,6 @@ if add_pepperoni == "y":
 
 if extra_cheese == "y":
     order += add_cheese
+
+# Show a message with the total bill.
+print(f"Your final bill is: ${order}.")
